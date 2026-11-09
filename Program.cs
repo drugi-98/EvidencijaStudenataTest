@@ -1,1 +1,1 @@
-Console.WriteLine("Zdravo")
+Console.WriteLine("Ispravljena poruka")
